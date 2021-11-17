@@ -23,5 +23,3 @@ The *read_files.py* script will take the *file_list.txt* file and generate a nic
 ```
 python3 read_files.py
 ```
-
-## TODO: upload read_files.py script and the command for S3 CLI
