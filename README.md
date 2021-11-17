@@ -14,7 +14,7 @@ python3 download_files.py -n NUMBER_OF_FILES [-sl FILE_SIZE_LIMIT_IN_BYTES]
 ```
 
 ## How to generate the required csv file
-The S3 CLI offers a nice command line option to retrieve all the filenames in a bucket folder. The output will be something like: last-modified-date, last-modified-time, size, file-key.
+The S3 CLI (which can be downloaded from [HERE](https://aws.amazon.com/cli/) offers a nice command line option to retrieve all the filenames in a bucket folder.
 The command is the following:
 ```
 aws s3 ls s3://BUCKET_PATH > file_list.txt
