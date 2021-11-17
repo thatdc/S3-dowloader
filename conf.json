@@ -1,0 +1,6 @@
+{
+	"files_list_path":"YOUR_FILENAME_LIST",
+	"bucket_name":"BUCKET_NAME",
+	"folder_path":"PATH_IN_THE_BUCKET",
+	"destination_path":"OUTPUT_PATH"
+}
